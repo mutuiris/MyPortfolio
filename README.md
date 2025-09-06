@@ -20,7 +20,7 @@ I created this website to showcase my work. I’m always striving to create some
 Clone the project
 
 ```bash
-  git clone https://github.com/addymwenda12/MyPortfolio
+  git clone https://github.com/mutuiris/MyPortfolio
 ```
 
 Go to the project directory
